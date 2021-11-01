@@ -1,2 +1,2 @@
 # snake-game
-Simple Snake Game in Python
+Simple Snake Game in Python using pygame
